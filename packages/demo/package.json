@@ -1,6 +1,6 @@
 {
   "name": "zheguangtest",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "ceshidemo",
   "author": "LiZheGuang <1030660726@qq.com>",
   "homepage": "https://github.com/LiZheGuang/lerna#readme",
@@ -25,5 +25,6 @@
   },
   "bugs": {
     "url": "https://github.com/LiZheGuang/lerna/issues"
-  }
+  },
+  "gitHead": "eb716f37ba4ce545cedf07eacf219dcbc55ba522"
 }
