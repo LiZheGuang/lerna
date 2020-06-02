@@ -13,9 +13,6 @@
   "files": [
     "lib"
   ],
-  "publishConfig": {
-    "registry": "https://registry.npm.taobao.org/"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/LiZheGuang/lerna.git"
@@ -26,5 +23,5 @@
   "bugs": {
     "url": "https://github.com/LiZheGuang/lerna/issues"
   },
-  "gitHead": "494627f0fa58c74bd64ffe7ca54781717a22a8df"
+  "gitHead": "1c49e6fc9ce8344fd72e1e638f54c27c1a804ff4"
 }
